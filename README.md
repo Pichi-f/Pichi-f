@@ -1,8 +1,8 @@
-<img align="center" width="100%" alt="Banner Luis Manuel Pichiyá Choc" src="https://user-images.githubusercontent.com/yourimage-link/banner.jpg"/>
+<img align="center" width="100%" alt="Banner Luis Manuel Pichiyá Choc" src="https://yourimage-link/banner.jpg"/>
 
 # 🌟 ¡Hola! Soy **Luis Manuel Pichiyá Choc** 👨‍💻
 
-¡Bienvenido a mi perfil de GitHub! Me apasiona la **programación**, la **optimización de procesos** y explorar nuevas tecnologías para mejorar continuamente. 🚀
+Bienvenido a mi perfil de GitHub. Me apasiona la **programación**, la **optimización de procesos**, y explorar nuevas tecnologías para mejorar continuamente. 🚀
 
 ---
 
@@ -12,6 +12,22 @@
 - 💡 Interesado en proyectos de **bases de datos** y **control de hardware**  
 - 🌱 Explorando nuevas soluciones tecnológicas para la industria  
 - 🤝 ¡Siempre dispuesto a aprender y colaborar!
+
+---
+
+## 📊 Estadísticas de GitHub
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pichi-f&show_icons=true&theme=tokyonight&count_private=true)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pichi-f&layout=compact&theme=tokyonight&langs_count=8)  
+![Contribuciones](https://streak-stats.demolab.com?user=Pichi-f&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Actividad Reciente
+![Gráfica de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Pichi-f&theme=tokyo-night)
 
 ---
 
@@ -28,18 +44,6 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/yourimage-link/coding.gif">
-
-## 📊 Estadísticas
-<div align="left">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pichi-f&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pichi-f&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 💬 Conecta conmigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
@@ -49,12 +53,6 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## ⚡ Proyectos Destacados:
-- 🔧 [Sistema de Control LCD con Raspberry Pi](https://github.com/TuProyecto)  
-- 📊 [Análisis de Datos para XYZ](https://github.com/TuProyecto2)  
 
 ---
 
