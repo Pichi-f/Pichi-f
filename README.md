@@ -1,5 +1,3 @@
-<img align="center" width="100%" alt="Banner Luis Manuel Pichiyá Choc" src="https://yourimage-link/banner.jpg"/>
-
 # 🌟 ¡Hola! Soy **Luis Manuel Pichiyá Choc** 👨‍💻
 
 Bienvenido a mi perfil de GitHub. Me apasiona la **programación**, la **optimización de procesos**, y explorar nuevas tecnologías para mejorar continuamente. 🚀
@@ -18,9 +16,8 @@ Bienvenido a mi perfil de GitHub. Me apasiona la **programación**, la **optimiz
 ## 📊 Estadísticas de GitHub
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pichi-f&show_icons=true&theme=tokyonight&count_private=true)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pichi-f&show_icons=true&theme=tokyonight&count_private=true_public=true)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pichi-f&layout=compact&theme=tokyonight&langs_count=8)  
-![Contribuciones](https://streak-stats.demolab.com?user=Pichi-f&theme=tokyonight&hide_border=true)
 
 </div>
 
