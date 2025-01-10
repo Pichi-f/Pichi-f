@@ -13,13 +13,14 @@ Bienvenido a mi perfil de GitHub. Me apasiona la **programación**, la **optimiz
 
 ---
 
-## 📊 Estadísticas de GitHub
-<div align="center">
+## 📊 Estadísticas de GitHub:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pichi-f&show_icons=true&theme=tokyonight&count_private=true_public=true)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pichi-f&layout=compact&theme=tokyonight&langs_count=8)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pichi-f&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-</div>
+## 🌟 Lenguajes más usados:
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pichi-f&layout=compact&theme=tokyonight&langs_count=8&count_private=true)
+
 
 ---
 
